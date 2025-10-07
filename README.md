@@ -20,7 +20,7 @@
 👉 **[Visit the Live Website](https://balaideclaro.vercel.app/)**  
 
 <p align="center">
-  <img src="images/bg.png" alt="Balai Cover / Banner" width="800">
+  <img src="https://balaideclaro.vercel.app/Balai_DeClaro_Logo.png" alt="Balai Cover / Banner" width="200">
 </p>
 
 ---
